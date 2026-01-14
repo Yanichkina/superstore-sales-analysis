@@ -33,3 +33,7 @@ The goal of the analysis is to identify high-impact customers and evaluate retur
 
 ## Project Output
 - Analytical presentation with visual insights (`presentation.pdf`)
+
+The raw dataset is publicly available on Kaggle. 
+(https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales?resource=download)
+
